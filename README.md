@@ -4,7 +4,12 @@ A simple and interactive **Finance Tracker** built with **React** and **Tailwind
  
  Demo: [Click Here](https://finance-tracker-sagarpoudels-projects.vercel.app/) 
 ---
+# Copyright
 
+© [2024] [Sagar Poudel]. All rights reserved.
+
+This project is protected by copyright. You are not allowed to copy, modify, distribute, or sell this software without explicit permission from the copyright holder.
+---
 ## 🛠️ Features
 
 - **Real-Time Savings Calculation**: Updates savings and remaining days live as you input values.
