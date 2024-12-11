@@ -26,7 +26,13 @@ const App = () => {
         <h2 className="text-xl font-bold text-gray-800 mb-6">
           Finance Tracker
         </h2>
-
+        <div className="mb-6 text-gray-700">
+          <p><strong>Total Money in Bank:</strong> Enter the amount of money you currently have in your bank or cash in hand.</p>
+          <p><strong>Fortnight Income:</strong> Enter your income earned every fortnight.</p>
+          <p><strong>Regular Expenses:</strong> Enter your regular fortnightly expenses, such as rent, electricity, and other recurring bills.</p>
+          <p><strong>Money Lent:</strong> Enter the amount of money you owe to others or have lent out.</p>
+          <p><strong>Expected Expenses:</strong> Enter large one-time expenses you expect in the near future, like purchasing a car, TV, or any other big-ticket items.</p>
+        </div>
         <Input
           inputlabel="Total Money in Bank"
           value={totalMoneyinBank}
